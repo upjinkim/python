@@ -1,1 +1,2 @@
-print('He says "It's a really simple sentence".')
+A = str("It's a really simple sentence")
+print(f'He says "{A}".')
